@@ -26,6 +26,7 @@ Questions:
 - Assignment 8 - [Question](#assignment-8) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment8)
 - Assignment 9 - [Question](#assignment-9) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment9)
 - Assignment 10 - [Question](#assignment-10) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment10)
+- [Big Java Early Objects](book.pdf) (the book)
 - [Related](#related)
 - [License](#license)
 
