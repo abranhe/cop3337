@@ -16,18 +16,18 @@ If you copy and paste the code from the repo you are responsible for what could 
 
 Questions:
 
-- Assignment 1 - [Question](#assignment1) - [Answer](#assignment1)
-- Assignment 2 - [Question](#assignment2) - [Answer](#assignment2)
-- Assignment 3 - [Question](#assignment3) - [Answer](#assignment3)
-- Assignment 4 - [Question](#assignment4) - [Answer](#assignment4)
-- Assignment 5 - [Question](#assignment5) - [Answer](#assignment5)
-- Assignment 6 - [Question](#assignment6) - [Answer](#assignment6)
-- Assignment 7 - [Question](#assignment7) - [Answer](#assignment7)
-- Assignment 8 - [Question](#assignment8) - [Answer](#assignment8)
-- Assignment 9 - [Question](#assignment9) - [Answer](#assignment9)
-- Assignment 10 - [Question](#assignment10) - [Answer](#assignment10)
+- Assignment 1 - [Question](#assignment-1) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment1)
+- Assignment 2 - [Question](#assignment-2) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment2)
+- Assignment 3 - [Question](#assignment-3) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment3)
+- Assignment 4 - [Question](#assignment-4) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment4)
+- Assignment 5 - [Question](#assignment-5) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment5)
+- Assignment 6 - [Question](#assignment-6) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment6)
+- Assignment 7 - [Question](#assignment-7) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment7)
+- Assignment 8 - [Question](#assignment-8) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment8)
+- Assignment 9 - [Question](#assignment-9) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment9)
+- Assignment 10 - [Question](#assignment-10) - [Answer](https://github.com/abranhe/cop3337/tree/master/src/com/abranhe/cop3337/assignment10)
 - [Related](#related)
-- [License](license)
+- [License](#license)
 
 
 ## Assignment 1

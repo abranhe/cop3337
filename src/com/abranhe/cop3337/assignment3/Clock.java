@@ -1,3 +1,30 @@
+/**
+ * This is free and unencumbered software released into the public domain.
+ * <p>
+ * Anyone is free to copy, modify, publish, use, compile, sell, or
+ * distribute this software, either in source code form or as a compiled
+ * binary, for any purpose, commercial or non-commercial, and by any
+ * means.
+ * <p>
+ * In jurisdictions that recognize copyright laws, the author or authors
+ * of this software dedicate any and all copyright interest in the
+ * software to the public domain. We make this dedication for the benefit
+ * of the public at large and to the detriment of our heirs and
+ * successors. We intend this dedication to be an overt act of
+ * relinquishment in perpetuity of all present and future rights to this
+ * software under copyright law.
+ * <p>
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ * IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+ * OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ * ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ * OTHER DEALINGS IN THE SOFTWARE.
+ * <p>
+ * For more information, please refer to <http://unlicense.org>
+ */
+
 package com.abranhe.cop3337.assignment3;
 
 import java.time.Instant;
@@ -6,34 +33,9 @@ import java.time.ZoneId;
 import java.util.HashMap;
 
 /**
- * Title: Assignment3 Semester: COP3337 – Fall 2019
- *
- * @author Carlos Hernandez
- *
- * I affirm that this program is entirely my own work and none of it is
- * the work of any other person.
- *
- * Part I: Implement a class Clock whose getHours, getMinutes and
- * getTime methods return the current time at your location. Return the
- * time as a string.
- *
- * There are two ways to retrieve the current time as a String:
- *
- * 1) Before Java 8 use new Date().toString() 2) With Java 8, you can
- * use 3 classes in the java.time package: Instant, LocalDateTime and
- * ZoneId.
- *
- * Here's how you do it: String timeString =
- * LocalDateTime.ofInstant(Instant.now(),
- * ZoneId.systemDefault()).toString()
- *
- * With either method, you'll need to extract the hours and minutes as a
- * substring.
- *
- * Add an alarm feature to the Clock class. When setAlarm(hours,
- * minutes) is called, the clock stores the alarm. When you call
- * getTime, and the alarm time has been reached or exceeded, return the
- * time followed by the string "Alarm" and clear the alarm.
+ * The Clock Class.
+ * 
+ * @author Carlos Abraham Hernandez
  */
 
 public class Clock {
