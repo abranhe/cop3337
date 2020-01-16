@@ -1,12 +1,11 @@
-<div align="center">
-  <br />
-  <br />
-  <a href="https://p.abranhe.com/cop3337">
-    <img src="https://cdn.abranhe.com/projects/cop3337/logo.png">
-  </a>
-  <br />
-  <br />
-</div>
+<br />
+<br />
+<img src="https://cdn.abranhe.com/projects/cop3337/logo.png">
+<br />
+<br />
+<br />
+
+[![Repl.it](https://repl.it/badge/github/abranhe/cop3337)](https://repl.it/@abranhe/cop3337)
 
 Here is the source code of some of the projects that I took while taking the Programming 2 (COP3337) at [Florida International University](https://fiu.edu).
 
